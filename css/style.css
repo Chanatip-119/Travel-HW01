@@ -89,6 +89,12 @@
     transform: scale(1.05);
     color: #2196F3;
    }
+   img {
+    max-width: 1000px;
+    height: auto;
+    border-radius: 8px;
+    margin-top: 10px;
+}
 
    /* สําหรับแท็บเล็ต */
 @media (max-width: 768px) {
